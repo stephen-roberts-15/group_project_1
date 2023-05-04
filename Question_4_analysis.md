@@ -3,7 +3,7 @@ Do countries with high anxiety rates also have high dpression rates? Does popula
 
 From the dataset, data from the most recent 5 years of the study was used for analysis (2013- 2017)
 
-Plotting anxiety rate against depression rate for all countries and years with availabe data yielded no statistically significant correlation with an r-squared value of 0.35
+Plotting anxiety rate against depression rate for all countries and years with availabe data yielded a mild correlation with an r-squared value of 0.35
 
 Comparing the rates of depression between the 5 largest countries by population and the 5 smallest countries, there was no corrleation in the rates of depressive disorders. 
 
