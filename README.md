@@ -10,7 +10,7 @@ Using the most recent 5 years of prevalence percentage data, the mean of each di
 
 From the last 5 years of  orignal study data, the mean percentage per country of anxiety and depression were taken and normalized. These noramlized values were then compared to the historical average high temperatures pulled from  meteostat API. Plotted on a map, with plot size relating to temperature and opacity relating to disorder prevalence, we see some patterns. This showed hotter climates did not have higher anxiety percentages, but colder climates did have higher anxiety and depression percentages.
 
-
+@Nikita put analysis here
 
 
 
